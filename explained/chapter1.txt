@@ -1,0 +1,17 @@
+there is just inside the body there is 1 h1 element and then there is a div container after it 
+the div container has a class of accordian 
+under the div container there are many identical div containers with the same class called accordian-item 
+so inside the individual accordian-item container we have two things 
+these are basically just 2 div elements . one for the title of and other for the brief content of that title 
+and this functionality is the only thing about this project 
+header div has the class of accordian-item-header
+and content div has the class of accordian-item-body
+inside the css file we kinda imported the google fonts we wanted to import 
+there is a universal selector.. all the margins of the elements inside this document is set to zero and border-box means the content will reduce in size if there is not space..
+the body element is using the montserrat font sans as backup 
+backgroundcolor and color of the body element is set to opposite ..
+font size is actually customised to 2.5*16 px
+i kinda changed the widht and margin properties to actually make the h1 element smaller and in the center 
+to center the h1 element we made it about 50% of the container which is the body element and specifying the top and bottom margin and setting the left and right to auto for the browser to figure it out 
+
+
